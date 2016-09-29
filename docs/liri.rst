@@ -1,11 +1,11 @@
-Hawaii: At a Glance
-===================
+Liri: At a Glance
+=================
 
-The Hawaii workspace is born to take advantage of what Qt, QtQuick,
+The Liri workspace is born to take advantage of what Qt, QtQuick,
 Wayland and systemd have to offer.
 
 Specific technical and architectural choices were made to ensure that
-Hawaii dependencies are trimmed down to a minimum that allows the desktop
+Liri dependencies are trimmed down to a minimum that allows the desktop
 to be lightweight without giving up on aesthetics and elegance.
 
 The separation between the compositor and the shell has been removed

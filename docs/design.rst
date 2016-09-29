@@ -21,15 +21,15 @@ compare the effectiveness of two designs at solving those problems.
 Starting with the fundamentals
 ------------------------------
 
-Hawaii strives to provide a beautiful but unique and user friendly experience to
+Liri strives to provide a beautiful but unique and user friendly experience to
 the user. Before you begin designing your application, get fully acquainted with the environment.
 
-Understanding the interior of Hawaii will aid you in producing an application that
+Understanding the interior of Liri will aid you in producing an application that
 integrates seamlessly with the desktop environment and is enjoyable to the user.
 
 Most individuals are not acquainted with the concepts or principles of human interface design,
 but they can easily identify which applications follow the guidelines and which applications stray from them.
 
-Become familiar with Hawaii and the fundamental principles contained within the human
+Become familiar with Liri and the fundamental principles contained within the human
 interface guidelines so that you can integrate them into your design to create the
 most user-friendly application possible.

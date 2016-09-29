@@ -124,7 +124,7 @@ html_theme = 'haiku'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "Hawaii - Human Interface Guidelines"
+html_title = "Liri - Human Interface Guidelines"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title = "HIG"
@@ -271,7 +271,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   (master_doc, 'HumanInterfaceGuidelines', u'Human Interface Guidelines',
-   author, 'HumanInterfaceGuidelines', 'Hawaii.',
+   author, 'HumanInterfaceGuidelines', 'Liri.',
    'Miscellaneous'),
 ]
 

@@ -1,11 +1,11 @@
-The Hawaii environment
+The Liri environment
 ======================
 
-Hawaii aims to offer an excellent desktop experience.
+Liri aims to offer an excellent desktop experience.
 
 Instead of forcing the user to know every detail of their computer, we expect them to turn
 it on, sit down and simply use it. We are able to achieve this through concise design methodology and
-the fact that all the applications built for Hawaii are designed from top to bottom to work together,
+the fact that all the applications built for Liri are designed from top to bottom to work together,
 offer consistency and stability, and deliver the features users want.
 
 To develop an excellent application, you will need to understand the environment and why our
@@ -16,17 +16,17 @@ seamlessly into the desktop experience.
 A distraction free, content focused desktop
 -------------------------------------------
 
-Hawaii was created around the core belief that the majority of people use computers to create and
+Liri was created around the core belief that the majority of people use computers to create and
 experience digital content that they care about and throughout their daily activities.
 
-On a Hawaii device, the user is free to focus on their content and productivity because Hawaii
+On a Liri device, the user is free to focus on their content and productivity because Liri
 performs many of the typical backend application management tasks that users are generally
 expected to handle.
 
 Avoiding manual configuration
 -----------------------------
 
-Hawaii is able to take much of the burden of adjusting and controlling the minor details of
+Liri is able to take much of the burden of adjusting and controlling the minor details of
 the system for the majority of users. This is achieved by promoting minimal configuration
 throughout the system and applications. 
 
@@ -39,7 +39,7 @@ Creating An "Out of the Box" Experience
 
 Always design with sane defaults in focus.
 
-Hawaii applications put a strong emphasis on the out of the box experience for the users.
+Liri applications put a strong emphasis on the out of the box experience for the users.
 
 It is safe to assume that if your app requires configuration before a user can be comfortable
 using it, the user may not take the time to configure it at all and simply use another app
@@ -77,7 +77,7 @@ Full-Screen Helps Users Focus
 At times it can make sense for an app to offer an immersive, full-screen experience to help users
 focus on tasks and avoid distractions from the desktop or background applications.
 
-Hawaii makes extensive use of this and compliments full-screen applications organically with ease.
+Liri makes extensive use of this and compliments full-screen applications organically with ease.
 
 [INSERT FULL-SCREEN SCREENSHOT]
 
